@@ -29,7 +29,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 🛠️ Built with 
 
-* [React](https://react.dev/) - The web framework
+* [React](https://react.dev/) - JavaScript library
 
 
 
