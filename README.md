@@ -1,1 +1,1 @@
-# Simple calculator developed with React Hooks and Css #
+# Simple calculator developed with React #
