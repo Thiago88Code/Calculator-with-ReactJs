@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
 
-div{
+div {
   font-family: 'Roboto Mono', monospace;
 }
 
-body{
+body {
   display: flex;
   height: 100vh;
   justify-content: center;
   align-items: center;
   text-align: center;
   color: #fff;
-  background : linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
 }

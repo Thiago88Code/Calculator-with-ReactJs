@@ -1,9 +1,9 @@
 :root {
     --bg-button: #f0f0f0;
-    --border-button :solid 1px #888
+    --border-button: solid 1px #888
 }
 
-.button{
+.button {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,25 +12,29 @@
     border: none;
     border-right: var(--border-button);
     border-bottom: var(--border-button);
-    color:black;
+    color: black;
     outline: none;
     cursor: pointer;
 }
-.button:active{
+
+.button:active {
     background-color: #ccc;
 }
 
-.button.double{
-    grid-column:  span 2;
+.button.double {
+    grid-column: span 2;
 }
-.button.triple{
-    grid-column:  span 3;
+
+.button.triple {
+    grid-column: span 3;
 }
-.button.operation{
+
+.button.operation {
     background: #fa8231;
     color: white;
 }
-.button.operation:active{
+
+.button.operation:active {
     background-color: #ccc;
-    
+
 }
