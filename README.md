@@ -1,4 +1,4 @@
-# Calculator developed with React #
+# Calculator #
 
 https://github.com/Thiago88Code/Calculator-with-ReactJs/assets/74308939/d2f36275-fbc7-4571-b705-0267e9d5579a
 
